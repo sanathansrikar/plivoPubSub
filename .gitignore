@@ -1,0 +1,13 @@
+# build output
+out/
+*.class
+target/
+bin/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# logs
+*.log
