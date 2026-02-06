@@ -76,4 +76,4 @@ java -jar junit-platform-console-standalone-1.10.1.jar --class-path "out;libs/*"
 
 ## Notes
 - The repo expects `libs/` to be present in the project root if you choose to vendor jars. Alternatively use Maven/Gradle to manage dependencies.
-- If you want, I can add a known-compatible Tyrus 1.x bundle into `libs/` and update the Dockerfile accordingly.
+- Some are yet to be implemented precisely due to time constraints, will take up in future.
